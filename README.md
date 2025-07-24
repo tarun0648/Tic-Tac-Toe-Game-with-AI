@@ -14,6 +14,11 @@ A modern implementation of the classic Tic Tac Toe game with an AI opponent usin
 - Real-time game status updates
 - Winning combination highlighting
 
+## Video
+
+https://github.com/user-attachments/assets/30964e5f-43b9-4e2a-af84-d3bdad708ad1
+
+
 ## Technologies Used
 
 - HTML5
